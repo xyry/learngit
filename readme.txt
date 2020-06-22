@@ -3,3 +3,5 @@ git is free software distributed under the GPL.
 Creating a new branch is quick and simple.
 
 feature1 is done!
+
+feature2 is done!
